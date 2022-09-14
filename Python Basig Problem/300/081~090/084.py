@@ -1,0 +1,2 @@
+temp = {}
+print(type(temp))

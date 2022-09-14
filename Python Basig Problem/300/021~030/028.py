@@ -1,0 +1,4 @@
+# 028
+lang = "python"
+lang[0] = "P"
+print(lang)
